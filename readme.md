@@ -38,5 +38,3 @@ La arquitectura de esta sección facilita la toma de decisiones del adoptante, p
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
-https://img.shields.io/badge/Estado-Terminado-green
